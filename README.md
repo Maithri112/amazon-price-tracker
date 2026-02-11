@@ -5,14 +5,12 @@ The Amazon Price Tracker is a Python-based automation tool that monitors the pri
 
 This project demonstrates real-world web scraping, automation, and email notification systems using Python.
 
-
 ## 🛠 Tech Stack
 - Python
 - Requests
 - BeautifulSoup
 - SMTP (Email Automation)
 - Environment Variables
-
 
 ## ⚙️ Features
 - Scrapes live product price from Amazon
